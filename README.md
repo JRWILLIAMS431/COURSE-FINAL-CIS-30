@@ -158,6 +158,7 @@ def main():
         else:
             print("Invalid choice.")
 
-
+# Run program
+main()
 
 
